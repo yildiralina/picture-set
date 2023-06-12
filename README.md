@@ -1,2 +1,2 @@
-# pictures-set
+# picture-set
 HTML, CSS, JavaScript, Adobe Photoshop
